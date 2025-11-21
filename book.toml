@@ -2,7 +2,7 @@
 authors = ["Rik Sluiter"]
 language = "en"
 src = "src"
-title = "mdbook demonstration"
+title = "book"
 
 [preprocessor.plantuml]
 plantuml-cmd="http://localhost:8080"
